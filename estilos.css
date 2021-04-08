@@ -6,9 +6,19 @@ body {
     font-family: "Arial";
     margin: 0px;
     padding: 0px;
-    
+    height: 100%;
+    width: 100%;
 }
 
+.cabecera {
+    background: #33A; 
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    border-radius: 20px; 
+
+}
 .container {
     width: 40%;
     color: blue;
@@ -22,5 +32,19 @@ body {
 .container__h1 {
      color: red;
      font-size: 26px;
-     background-color: yellowgreen;
+ }
+
+ .footer {
+     margin-top: 30px;
+     display: flex;
+     justify-content: end;
+     align-items: end;
+     border: 30px;
+ }
+
+ .footer_pie {
+    color: red;
+    border: 20px solid;
+    justify-content: end;
+    align-items: end;
  }
