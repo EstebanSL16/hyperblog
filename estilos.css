@@ -8,22 +8,24 @@ body {
     padding: 0px;
     height: 100%;
     width: 100%;
+    background: black;
 }
 
 .cabecera {
-    background: #33A; 
-    color: white;
+    background: #33A url(./imagenes/falcon.png); 
+    color: black;
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
     border-radius: 20px; 
+    height: 100px;
 
 }
 .container {
     width: 40%;
     color: blue;
     text-align: center;
-    border: 5px solid black;
+    border: 5px solid blue;
     padding: 2px;
     font-size: 23px;
     margin: 1%;
