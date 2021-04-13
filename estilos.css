@@ -34,17 +34,8 @@ body {
      font-size: 26px;
  }
 
- .footer {
-     margin-top: 30px;
-     display: flex;
-     justify-content: end;
-     align-items: end;
-     border: 30px;
+ .foot {
+     background: yellow;
+     padding: 2px; 
  }
 
- .footer_pie {
-    color: red;
-    border: 20px solid;
-    justify-content: end;
-    align-items: end;
- }
