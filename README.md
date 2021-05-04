@@ -14,7 +14,7 @@ base* altura / triangulo al cuadrado tresmil, raya raya piw piw
 ######H6 header
 
 Creado por el increible mi
-
+incluye ejemplos en windows linux y mac
 
 ~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
 *Italic*      _Italic_
